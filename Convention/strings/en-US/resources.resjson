@@ -1,0 +1,16 @@
+﻿// For details on localizing a Windows app, see: http://go.microsoft.com/fwlink/?LinkId=212836
+
+{
+    "Section1": "Schema",
+	"Section1Title": "Schedule by day:",
+    "Section1SubtextOne": "Horeca & toerisme:",
+    "Section1SubtextTwo": "ICT-opleidingen:",
+    "Section1SubtextThree": "Loopbaancentrum:",
+    "Section1SubtextFour": "Installatietechniek:",
+
+    "Section2": "Plattegrond",
+    "Section2ItemSubtitleOne": "Begane grond",
+    "Section2DescriptionOne": "foto komt hier",
+    "Section2ItemSubtitleTwo": "1e verdieping",
+    "Section2DescriptionTwo": "foto komt hier"
+}
