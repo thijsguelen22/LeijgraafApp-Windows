@@ -1,27 +1,17 @@
 ﻿// For details on localizing a Windows app, see: http://go.microsoft.com/fwlink/?LinkId=212836
 
 {
-    "Section1": "Schedule",
+    "Section1": "Schema",
 	"Section1Title": "Schedule by day:",
     "Section1SubtextOne": "Horeca & toerisme:",
     "Section1SubtextTwo": "ICT-opleidingen:",
     "Section1SubtextThree": "Loopbaancentrum:",
     "Section1SubtextFour": "Installatietechniek:",
 
-    "Section2": "Map",
-    "Section2ItemTitle": "Map by floor",
-    "Section2ItemSubtitleOne": "Floor one:",
-    "Section2DescriptionOne": "picture here",
-    "Section2ItemSubtitleTwo": "Floor two:",
-    "Section2DescriptionTwo": "picture here. more floors could be added",
-    
-    "Section3": "QR hunt",
-	"Section3ItemTitle": "Item Title",
-	"Section3Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
-    
-    "Section4": "NFC tag",
-    "Section4Description": "Lorem ipsum dolor sit amet, consectetur ising elit, sed diam nonummy nibh uismod tincidunt ut laoreet suscipit lobortis nisl ut wisi quipexerci quis consequat minim veniam, quis nostrud.",
-
-    "DescriptionText": "Lorem ipsum dolor sit amet:",
-    "SectionSubtitle": "Section subtitle"
+    "Section2": "Plattegrond",
+    "Section2ItemSubtitleOne": "Begane grond",
+    "Section2DescriptionOne": "foto komt hier",
+    "Section2ItemSubtitleTwo": "1e verdieping",
+    "Section2DescriptionTwo": "foto komt hier",
+    "Section2DescriptionThree": ""
 }

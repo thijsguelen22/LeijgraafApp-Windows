@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
-  <Identity Name="3270c279-1aeb-4489-a299-69b1ae9e797b" Version="1.0.0.0" Publisher="CN=Thijs-Jan" />
-  <mp:PhoneIdentity PhoneProductId="3270c279-1aeb-4489-a299-69b1ae9e797b" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Identity Name="104716DB62BE9.27347EEF9C4C0" Version="0.1.0.1" Publisher="CN=0C8E132A-CFD4-4491-89F6-395A19633308" />
+  <mp:PhoneIdentity PhoneProductId="b77e1b24-d835-4cdf-b437-88d70c74e564" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>Convention</DisplayName>
+    <DisplayName>De Leijgraaf Cuijk open dag</DisplayName>
     <PublisherDisplayName>Thijs-Jan</PublisherDisplayName>
     <Logo>images\StoreLogo.png</Logo>
   </Properties>
@@ -16,7 +16,7 @@
   </Resources>
   <Applications>
     <Application Id="App" StartPage="default.html">
-      <m3:VisualElements DisplayName="De Leijgraaf open dag" Square150x150Logo="images\Square150x150Logo.png" Square44x44Logo="images\Square44x44Logo.png" Description="Dit is de app van ROC De Leijgraaf met het schema van de open dag" ForegroundText="light" BackgroundColor="transparent">
+      <m3:VisualElements DisplayName="De Leijgraaf Cuijk open dag" Square150x150Logo="images\Square150x150Logo.png" Square44x44Logo="images\Square44x44Logo.png" Description="Dit is de app van ROC De Leijgraaf Cuijk met het schema van de open dag" ForegroundText="light" BackgroundColor="transparent">
         <m3:LockScreen Notification="badge" BadgeLogo="images\BadgeLogo.png" />
         <m3:DefaultTile Wide310x150Logo="images\Wide310x150Logo.png" Square71x71Logo="images\Square71x71Logo.png">
         </m3:DefaultTile>

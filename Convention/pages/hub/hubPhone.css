@@ -106,7 +106,7 @@
 		}
 
 		.hubpage .hub .section3 .win-container {
-			margin-bottom: 10px;
+			margin-bottom: 0px;
 			margin-left: 0px;
 			margin-right: 0px;
 		}
@@ -218,5 +218,8 @@
 }
 
 .schedule {
+    width: 100%;
+}
+#floorImage {
     width: 100%;
 }

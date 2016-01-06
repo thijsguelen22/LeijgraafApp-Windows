@@ -117,3 +117,145 @@ function loadTwelve() {
     xhttp.open("GET", "http://thijs-jan.aoweb.nl/school/AppDatabaseIndex/twelve.php", true);
     xhttp.send();
 }
+function loadThirteen() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+        if (xhttp.readyState == 4 && xhttp.status == 200) {
+            document.getElementById("thirteen").innerHTML = xhttp.responseText;
+        }
+    };
+    xhttp.open("GET", "http://thijs-jan.aoweb.nl/school/AppDatabaseIndex/thirteen.php", true);
+    xhttp.send();
+}
+function loadFourteen() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+        if (xhttp.readyState == 4 && xhttp.status == 200) {
+            document.getElementById("fourteen").innerHTML = xhttp.responseText;
+        }
+    };
+    xhttp.open("GET", "http://thijs-jan.aoweb.nl/school/AppDatabaseIndex/fourteen.php", true);
+    xhttp.send();
+}
+function loadFifteen() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+        if (xhttp.readyState == 4 && xhttp.status == 200) {
+            document.getElementById("fifteen").innerHTML = xhttp.responseText;
+        }
+    };
+    xhttp.open("GET", "http://thijs-jan.aoweb.nl/school/AppDatabaseIndex/fifteen.php", true);
+    xhttp.send();
+}
+function loadSixteen() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+        if (xhttp.readyState == 4 && xhttp.status == 200) {
+            document.getElementById("sixteen").innerHTML = xhttp.responseText;
+        }
+    };
+    xhttp.open("GET", "http://thijs-jan.aoweb.nl/school/AppDatabaseIndex/sixteen.php", true);
+    xhttp.send();
+}
+function loadSeventeen() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+        if (xhttp.readyState == 4 && xhttp.status == 200) {
+            document.getElementById("seventeen").innerHTML = xhttp.responseText;
+        }
+    };
+    xhttp.open("GET", "http://thijs-jan.aoweb.nl/school/AppDatabaseIndex/seventeen.php", true);
+    xhttp.send();
+}
+function loadEightteen() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+        if (xhttp.readyState == 4 && xhttp.status == 200) {
+            document.getElementById("eightteen").innerHTML = xhttp.responseText;
+        }
+    };
+    xhttp.open("GET", "http://thijs-jan.aoweb.nl/school/AppDatabaseIndex/eightteen.php", true);
+    xhttp.send();
+}
+function loadNineteen() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+        if (xhttp.readyState == 4 && xhttp.status == 200) {
+            document.getElementById("nineteen").innerHTML = xhttp.responseText;
+        }
+    };
+    xhttp.open("GET", "http://thijs-jan.aoweb.nl/school/AppDatabaseIndex/nineteen.php", true);
+    xhttp.send();
+}
+function loadTwenty() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+        if (xhttp.readyState == 4 && xhttp.status == 200) {
+            document.getElementById("twenty").innerHTML = xhttp.responseText;
+        }
+    };
+    xhttp.open("GET", "http://thijs-jan.aoweb.nl/school/AppDatabaseIndex/twenty.php", true);
+    xhttp.send();
+}
+function loadTwentyone() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+        if (xhttp.readyState == 4 && xhttp.status == 200) {
+            document.getElementById("twentyone").innerHTML = xhttp.responseText;
+        }
+    };
+    xhttp.open("GET", "http://thijs-jan.aoweb.nl/school/AppDatabaseIndex/twentyone.php", true);
+    xhttp.send();
+}
+/*
+function loadTwentytwo() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+        if (xhttp.readyState == 4 && xhttp.status == 200) {
+            document.getElementById("twentytwo").innerHTML = xhttp.responseText;
+        }
+    };
+    xhttp.open("GET", "http://thijs-jan.aoweb.nl/school/AppDatabaseIndex/twentytwo.php", true);
+    xhttp.send();
+}
+function loadTwentythree() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+        if (xhttp.readyState == 4 && xhttp.status == 200) {
+            document.getElementById("twentythree").innerHTML = xhttp.responseText;
+        }
+    };
+    xhttp.open("GET", "http://thijs-jan.aoweb.nl/school/AppDatabaseIndex/twentythree.php", true);
+    xhttp.send();
+}
+function loadTwentyfour() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+        if (xhttp.readyState == 4 && xhttp.status == 200) {
+            document.getElementById("twentyfour").innerHTML = xhttp.responseText;
+        }
+    };
+    xhttp.open("GET", "http://thijs-jan.aoweb.nl/school/AppDatabaseIndex/twentyfour.php", true);
+    xhttp.send();
+}
+function loadTwentyfive() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+        if (xhttp.readyState == 4 && xhttp.status == 200) {
+            document.getElementById("twentyfive").innerHTML = xhttp.responseText;
+        }
+    };
+    xhttp.open("GET", "http://thijs-jan.aoweb.nl/school/AppDatabaseIndex/twentyfive.php", true);
+    xhttp.send();
+}
+function loadTwentysix() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+        if (xhttp.readyState == 4 && xhttp.status == 200) {
+            document.getElementById("twentysix").innerHTML = xhttp.responseText;
+        }
+    };
+    xhttp.open("GET", "http://thijs-jan.aoweb.nl/school/AppDatabaseIndex/twentysix.php", true);
+    xhttp.send();
+}
+*/
